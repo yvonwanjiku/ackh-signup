@@ -1,2 +1,3 @@
 # ackh-signup
-sigup form for ackh website
+signup form for ackh website
+register and start earning
